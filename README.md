@@ -39,28 +39,13 @@
 </div>
 
 # Visit AI Tools
-      
 
-[![Button Shield]][Shield]
-[![Button Shield2]][Shield2]
+ [![ChatGPT Text Converter][button1]][Website-url]
+ [![Linkedin Text Formatter][button1]][Website-url]
+  
+[button1]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Website-url]: https://chatgpttextformatter.com
 
-
-<!---------------------------------------------------------------------------->
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-[Button Shield2]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: LICENSE
-[Shield]: https://chatgpttextformatter.com
-[Shield2]: https://chatgpttextformatter.com
-[KBD]: Types/KBD.md
-[#]: #
-
-
-<!---------------------------------[ Badges ]---------------------------------->
-
-[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
-[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
 
 
 
