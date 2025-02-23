@@ -43,7 +43,7 @@
  [![ChatGPT Text Converter][button1]][Website-url]
  [![Linkedin Text Formatter][button1]][Website-url]
   
-[button1]: https://img.shields.io/badge/next.js-000000?style=for-the-badge
+[button1]: https://img.shields.io/badge/ChatGPT%20Text%20Converter-8A2BE2
 [Website-url]: https://chatgpttextformatter.com
 
  [![ChatGPT Text Converter][button1]][Website-url]
