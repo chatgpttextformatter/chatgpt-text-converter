@@ -28,7 +28,5 @@
 ---
 
 ## 📈 Backlinks & Collaboration  
-```html
-<!-- Use this code to link to us -->
 <a href="https://chatgpttextformatter.com" target="_blank" rel="noopener">ChatGPT Text Formatter</a> - Free client-side tool to convert and format AI-generated text for LinkedIn, Word, and SEO.
 
