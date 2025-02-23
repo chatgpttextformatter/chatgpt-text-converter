@@ -27,7 +27,6 @@
 
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <div class="converter-btns">
   <button class="converter-btn chatgpt-btn" onclick="window.location.href='https://chatgpttextformatter.com'">
@@ -41,55 +40,5 @@
   </button>
 </div>
 
-
-<style>
-  .converter-btns {
-    display: flex;
-    gap: 15px;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  
-  .converter-btn {
-    padding: 15px 30px;
-    border: none;
-    border-radius: 12px;
-    font-size: 1.1rem;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-  
-  .chatgpt-btn {
-    background: linear-gradient(135deg, #6e48aa, #9d50bb);
-    color: white;
-    box-shadow: 0 4px 15px rgba(110, 72, 170, 0.3);
-  }
-  
-  .linkedin-btn {
-    background: linear-gradient(135deg, #0077b5, #00a0dc);
-    color: white;
-    box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);
-  }
-  
-  .converter-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
-  }
-  
-  .converter-btn i {
-    font-size: 1.3rem;
-  }
-  
-  @media (max-width: 480px) {
-    .converter-btn {
-      width: 100%;
-      justify-content: center;
-    }
-  }
-</style>
 
 
