@@ -38,29 +38,21 @@
   </button>
 </div>
 
-# Buttons
-         
-**Links  ➞  Buttons**
-
-<br>
-<br>
-
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+# Visit AI Tools
+      
 
 [![Button Shield]][Shield]
-
-</div>
-
-<br>
-<br>
+[![Button Shield2]][Shield2]
 
 
 <!---------------------------------------------------------------------------->
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[Button Shield2]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
 [License]: LICENSE
 [Shield]: https://chatgpttextformatter.com
+[Shield2]: https://chatgpttextformatter.com
 [KBD]: Types/KBD.md
 [#]: #
 
