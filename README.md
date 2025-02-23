@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <h1>ChatGPT Text Converter AI Tool</h1>
- [![ChatGPT Text Converter][button1]][Website-url]
- [![Linkedin Text Formatter][button2]][Website-url]
+  
+[button1]: https://img.shields.io/badge/ChatGPT%20Text%20Converter-8A2BE2
+[button2]: https://img.shields.io/badge/LinkedIn%20Text%20Formatter-blue
 </div>
 
 
